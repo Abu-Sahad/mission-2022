@@ -97,6 +97,10 @@ body{
 }
 .global_area{
     display: flex;
+    background-image: url(images/illustrators/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right top 400px;
+    background-size: 20%;
     
 }
 .global_area_half_width{
@@ -105,7 +109,7 @@ body{
 
 }
 .global_area_half_width img{
-    width: 80%;
+    width: 90%;
 }
 .work_area_body{
     display: flex;
