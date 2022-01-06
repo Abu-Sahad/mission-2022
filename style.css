@@ -107,12 +107,6 @@ body{
 .global_area_half_width img{
     width: 80%;
 }
-/* #global{
-    background-image: url(images/illustrators/dream-bg.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: right bottom;
-} */
 .work_area_body{
     display: flex;
 }
